@@ -3,11 +3,16 @@
 Entrepreneur · Singapore
 
 Twelve years across digital products — growth and operating side. Managed
-sizeable budgets, ran teams of 100+, and secured capital for high-tech
-and AI initiatives: ML/LLM raises at Blockville, EU program funding as
-the youngest project coordinator in 2011, and [TTGV](https://ttgv.org.tr/en)
-tech programs with IBM, Sabancı Foundation, World Bank and EIF that reached
-10,000+ young people in coding and robotics.
+sizeable budgets, ran teams of 100+, and secured capital for high-tech and
+AI initiatives, including ML/LLM raises at Blockville and EU program
+funding as the youngest project coordinator in 2011.
+
+Along the way, I built growth-side experience through projects at
+[TTGV](https://ttgv.org.tr/en), [IBM](https://www.ibm.com/products/watsonx),
+[Sabancı](https://www.sabancidx.com/en/),
+[World Bank](https://treasury.worldbank.org/en/about/unit/treasury/asset-management)
+and [EIF](https://www.eif.org/the-bigger-picture/strategic-priorities/investing-in-tech-and-innovation)
+— programs that reached 10,000+ young people in coding and robotics.
 
 Track record on [LinkedIn](https://www.linkedin.com/in/alpsuleyman/) —
 Blockville Digital Assets (Managing Partner, $57M valuation),
