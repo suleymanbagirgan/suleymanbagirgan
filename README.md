@@ -27,7 +27,7 @@ Entertainment → [Zynga acquisition](https://www.zynga.com/corporate/rollic-com
 
 **Education**
 - `EC Youth Projects` — 2009–2012 · 30+ NGOs across Europe · ~€200K budget
-- `TTGV Tech Programs` — coding & robotics for youth · with IBM, Sabancı, World Bank, EIF
+- `TTGV Tech Programs` — coding, robotics and AI education for 100,000+ high school students
 
 **Sustainability**
 - `Tracker Oak` — 3,000+ oak trees · 100+ volunteers · World Bank–referenced
