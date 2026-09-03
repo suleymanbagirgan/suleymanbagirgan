@@ -22,8 +22,9 @@ Entertainment → [Zynga acquisition](https://www.zynga.com/corporate/rollic-com
 
 #### Social Impact
 
-Giving back changes more than the work itself. It's the biggest motivator
-behind everything I build in tech — the quiet through-line under all of this.
+Somewhere along the way I decided I want to help heal the world — in small
+pieces, through what we build and who we build with. It's the biggest reason
+I keep at tech.
 
 **Entrepreneurship**
 - Fellow Alumni — [Endeavor Turkey](https://turkiye.endeavor.org/) · [Entrepreneurship Foundation](https://girisimcilikvakfi.org/)
