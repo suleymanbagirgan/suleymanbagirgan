@@ -5,18 +5,19 @@ Entrepreneur · Singapore
 Twelve years across digital products — growth and operating side. Managed
 sizeable budgets, ran teams of 100+, and secured capital for high-tech
 and AI initiatives: ML/LLM raises at Blockville, EU program funding as
-the youngest project coordinator in 2011, and TTGV tech programs with
-IBM, Sabancı Foundation, World Bank and EIF that reached 10,000+ young
-people in coding and robotics.
+the youngest project coordinator in 2011, and [TTGV](https://ttgv.org.tr/en)
+tech programs with IBM, Sabancı Foundation, World Bank and EIF that reached
+10,000+ young people in coding and robotics.
 
 Track record on [LinkedIn](https://www.linkedin.com/in/alpsuleyman/) —
-Blockville Digital Assets (Managing Partner, $57M valuation), Mighty
-Raccoon Studios (Co-Founder, 700M+ views · 2.6M community), Creasaur
-Entertainment → Zynga acquisition.
+Blockville Digital Assets (Managing Partner, $57M valuation),
+[Mighty Raccoon Studios](https://www.youtube.com/channel/UCX77yEHFSRIjLl9X_MPbTsA)
+(Co-Founder, 700M+ views · 2.6M community), Creasaur Entertainment
+→ [Zynga acquisition](https://www.zynga.com/corporate/rollic-completes-acquisitions-of-bytetyper-creasaur-entertainment-and-zerosum-game-studios/).
 
-Fellow Alumni — **Endeavor Turkey** and **Girişimcilik Vakfı** —
-backing the next generation of founders and the ecosystems they
-grow in.
+Fellow Alumni — **[Endeavor Turkey](https://turkiye.endeavor.org/)** and
+**[Girişimcilik Vakfı](https://girisimcilikvakfi.org/)** — backing the
+next generation of founders and the ecosystems they grow in.
 
 ---
 
@@ -29,8 +30,8 @@ grow in.
 
 **Growth**
 - `GTM engineering` — go-to-market as an engineered system, not a deck
-- `community-driven growth loops` — narrative, distribution and retention as one machine
-- `AI-native content & search` — programmatic content, visibility inside LLM answers
+- `category design` — creating the lane before racing in it
+- `platform & ecosystem strategy` — how digital assets, networks and communities compound
 
 #### On GitHub
 
