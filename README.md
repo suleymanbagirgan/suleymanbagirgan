@@ -2,26 +2,42 @@
 
 Entrepreneur · Singapore
 
-Twelve years across digital products — growth and operating side. Managed
-sizeable budgets, ran teams of 100+, and secured capital for high-tech and
-AI initiatives, including ML/LLM raises at Blockville and EU program
-funding as the youngest project coordinator in 2011.
-
-Along the way, I built growth-side experience through projects at
-[TTGV](https://ttgv.org.tr/en), [IBM](https://www.ibm.com/products/watsonx),
-[Sabancı](https://www.sabancidx.com/en/),
-[World Bank](https://treasury.worldbank.org/en/about/unit/treasury/asset-management)
-and [EIF](https://www.eif.org/the-bigger-picture/strategic-priorities/investing-in-tech-and-innovation).
+Fourteen years running growth and operations for digital products. Managed
+sizeable budgets, ran teams of 100+, secured capital for high-tech ML/LLM
+initiatives at Blockville. Started as the youngest EU project coordinator
+in 2011; still building.
 
 Track record on [LinkedIn](https://www.linkedin.com/in/alpsuleyman/) —
-Blockville Digital Assets (Managing Partner, $57M valuation · [transferred to Doğan Holding](https://doganyatirim.com.tr/en)),
-[Mighty Raccoon Studios](https://www.youtube.com/channel/UCX77yEHFSRIjLl9X_MPbTsA)
-(Co-Founder, 700M+ views · 2.6M community), Creasaur Entertainment
-→ [Zynga acquisition](https://www.zynga.com/corporate/rollic-completes-acquisitions-of-bytetyper-creasaur-entertainment-and-zerosum-game-studios/).
+currently at [Mighty Raccoon Studios](https://www.youtube.com/channel/UCX77yEHFSRIjLl9X_MPbTsA)
+(Co-Founder, 700M+ views · 2.6M community). Previously at Blockville
+Digital Assets (Managing Partner, $57M valuation ·
+[transferred to Doğan](https://doganyatirim.com.tr/en)) and Creasaur
+Entertainment → [Zynga acquisition](https://www.zynga.com/corporate/rollic-completes-acquisitions-of-bytetyper-creasaur-entertainment-and-zerosum-game-studios/).
 
+#### Social Impact
+
+**Entrepreneurship**
 Fellow Alumni — **[Endeavor Turkey](https://turkiye.endeavor.org/)** and
-**[Girişimcilik Vakfı](https://girisimcilikvakfi.org/)** — backing the
-next generation of founders and the ecosystems they grow in.
+**[Entrepreneurship Foundation](https://girisimcilikvakfi.org/)** —
+backing the next generation of founders and the ecosystems they grow in.
+
+**Education**
+- [TTGV](https://ttgv.org.tr/en) programs with
+  [IBM](https://www.ibm.com/products/watsonx),
+  [Sabancı](https://www.sabancidx.com/en/),
+  [World Bank](https://treasury.worldbank.org/en/about/unit/treasury/asset-management)
+  and [EIF](https://www.eif.org/the-bigger-picture/strategic-priorities/investing-in-tech-and-innovation)
+  — 10,000+ young people trained in coding and robotics
+- European Commission youth projects (2009–2012) — 10+ cross-border
+  programs bringing together 30+ NGOs across Europe
+
+**Sustainability**
+- **Tracker Oak** — 3,000+ oak trees planted with 100+ volunteers;
+  World Bank–referenced for academic research on sustainable practices
+- **Sogef** — micro-finance fund supporting 25 university-led social
+  initiatives; Social Entrepreneur award, Anadolu Foundation
+- **Sogla** — 100+ sustainable entrepreneurship models, 1,000+ social
+  entrepreneurs consulted; World Bank–recognized for innovative impact
 
 ---
 
