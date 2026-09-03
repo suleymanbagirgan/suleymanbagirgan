@@ -11,11 +11,10 @@ Along the way, I built growth-side experience through projects at
 [TTGV](https://ttgv.org.tr/en), [IBM](https://www.ibm.com/products/watsonx),
 [Sabancı](https://www.sabancidx.com/en/),
 [World Bank](https://treasury.worldbank.org/en/about/unit/treasury/asset-management)
-and [EIF](https://www.eif.org/the-bigger-picture/strategic-priorities/investing-in-tech-and-innovation)
-— programs that reached 10,000+ young people in coding and robotics.
+and [EIF](https://www.eif.org/the-bigger-picture/strategic-priorities/investing-in-tech-and-innovation).
 
 Track record on [LinkedIn](https://www.linkedin.com/in/alpsuleyman/) —
-Blockville Digital Assets (Managing Partner, $57M valuation),
+Blockville Digital Assets (Managing Partner, $57M valuation · [transferred to Doğan Holding](https://doganyatirim.com.tr/en)),
 [Mighty Raccoon Studios](https://www.youtube.com/channel/UCX77yEHFSRIjLl9X_MPbTsA)
 (Co-Founder, 700M+ views · 2.6M community), Creasaur Entertainment
 → [Zynga acquisition](https://www.zynga.com/corporate/rollic-completes-acquisitions-of-bytetyper-creasaur-entertainment-and-zerosum-game-studios/).
