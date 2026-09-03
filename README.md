@@ -22,13 +22,15 @@ grow in.
 
 #### Currently thinking about
 
+**AI**
 - `agentic engineering` — designing agents that actually finish
 - `context engineering` — memory, retrieval, and the shape of what an agent sees
 - `multi-agent orchestration` — specialists over generalists, wired to a plan
-- `agent harnesses` — the harness (hooks, skills, gates) matters more than the model
-- `MCP & tool design` — tools as the real API surface between agents and the world
-- `LLM evals` — verification the agent itself cannot fake
-- `AI-first product velocity` — one operator, agent-shaped org, shipping cadence
+
+**Growth**
+- `GTM engineering` — go-to-market as an engineered system, not a deck
+- `community-driven growth loops` — narrative, distribution and retention as one machine
+- `AI-native content & search` — programmatic content, visibility inside LLM answers
 
 #### On GitHub
 
