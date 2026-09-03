@@ -22,7 +22,7 @@ Entertainment → [Zynga acquisition](https://www.zynga.com/corporate/rollic-com
 
 #### Social Impact
 
-Somewhere along the way I decided I want to help heal the world — in small
+Somewhere along the way I decided I want to help heal the world  in small
 pieces, through what we build and who we build with. It's the biggest reason
 I keep at tech.
 
