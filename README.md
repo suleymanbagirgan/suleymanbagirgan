@@ -23,23 +23,16 @@ Entertainment → [Zynga acquisition](https://www.zynga.com/corporate/rollic-com
 #### Social Impact
 
 **Entrepreneurship**
-Fellow Alumni — **[Endeavor Turkey](https://turkiye.endeavor.org/)** and
-**[Entrepreneurship Foundation](https://girisimcilikvakfi.org/)** —
-backing the next generation of founders and the ecosystems they grow in.
+- Fellow Alumni — [Endeavor Turkey](https://turkiye.endeavor.org/) · [Entrepreneurship Foundation](https://girisimcilikvakfi.org/)
 
 **Education**
-- **European Commission youth projects** (2009–2012) — youth policy
-  programs bringing together 30+ NGOs across Europe on a ~€200K budget
-- **TTGV tech programs** — training initiatives with IBM, Sabancı,
-  World Bank and EIF, focused on coding and robotics for young people
+- `EC Youth Projects` — 2009–2012 · 30+ NGOs across Europe · ~€200K budget
+- `TTGV Tech Programs` — coding & robotics for youth · with IBM, Sabancı, World Bank, EIF
 
 **Sustainability**
-- **Tracker Oak** — 3,000+ oak trees planted with 100+ volunteers;
-  World Bank–referenced for academic research on sustainable practices
-- **Sogef** — micro-finance fund supporting 25 university-led social
-  initiatives; Social Entrepreneur award, Anadolu Foundation
-- **Sogla** — 100+ sustainable entrepreneurship models, 1,000+ social
-  entrepreneurs consulted; World Bank–recognized for innovative impact
+- `Tracker Oak` — 3,000+ oak trees · 100+ volunteers · World Bank–referenced
+- `Sogef` — 25 university-led initiatives · Social Entrepreneur award, Anadolu Foundation
+- `Sogla` — 100+ sustainability models · 1,000+ social entrepreneurs consulted · World Bank–recognized
 
 ---
 
