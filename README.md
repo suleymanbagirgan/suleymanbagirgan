@@ -4,18 +4,13 @@ Entrepreneur · Singapore
 
 Twelve years across digital products — growth and operating side. Managed
 sizeable budgets, ran teams of 100+, and secured capital for high-tech
-and AI initiatives: ML/LLM raises at Blockville,
-[EU program funding](https://commission.europa.eu/funding-and-tenders/find-funding/eu-funding-programmes_en)
-as the youngest project coordinator in 2011, and [TTGV](https://ttgv.org.tr/en)
-tech programs with [IBM](https://www.ibm.com/products/watsonx),
-[Sabancı](https://www.sabancidx.com/en/),
-[World Bank](https://treasury.worldbank.org/en/about/unit/treasury/asset-management)
-and [EIF](https://www.eif.org/the-bigger-picture/strategic-priorities/investing-in-tech-and-innovation)
-that reached 10,000+ young people in coding and robotics.
+and AI initiatives: ML/LLM raises at Blockville, EU program funding as
+the youngest project coordinator in 2011, and [TTGV](https://ttgv.org.tr/en)
+tech programs with IBM, Sabancı Foundation, World Bank and EIF that reached
+10,000+ young people in coding and robotics.
 
 Track record on [LinkedIn](https://www.linkedin.com/in/alpsuleyman/) —
-Blockville Digital Assets (Managing Partner, $57M valuation ·
-[acq. Doğan Holding](https://doganyatirim.com.tr/en)),
+Blockville Digital Assets (Managing Partner, $57M valuation),
 [Mighty Raccoon Studios](https://www.youtube.com/channel/UCX77yEHFSRIjLl9X_MPbTsA)
 (Co-Founder, 700M+ views · 2.6M community), Creasaur Entertainment
 → [Zynga acquisition](https://www.zynga.com/corporate/rollic-completes-acquisitions-of-bytetyper-creasaur-entertainment-and-zerosum-game-studios/).
